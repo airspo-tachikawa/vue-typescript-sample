@@ -7,7 +7,6 @@
 <script lang="ts">
 	import {Component, Vue} from 'vue-property-decorator'
 	import ButtonEx from '../components/ButtonEx'
-	import DateBox from '../components/DateBox'
 	import List from '../components/List'
 	import DateUtil from '../utils/DateUtil'
 	import AttendanceDateModel from '../models/AttendanceDateModel';
